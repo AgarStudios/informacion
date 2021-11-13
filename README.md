@@ -5,5 +5,5 @@ Bienvenidx! Somos Agar Studios, y estamos aquí para ofrecerte herramientas y pr
 
 Gracias!
 
-[discord][https://discord.gg/rBunT9U7U9]
-[email][mailto:agarstudios@pm.me]
+[discord]: https://discord.gg/rBunT9U7U9
+[email]: mailto:agarstudios@pm.me
